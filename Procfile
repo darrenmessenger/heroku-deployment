@@ -1,1 +1,1 @@
-web : ginicorn dm-simple-django-todo.wsgi:application
+web : gunicorn dm-simple-django-todo.wsgi:application
