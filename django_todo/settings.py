@@ -27,7 +27,7 @@ SECRET_KEY = 'abmev+9i-1$yo*evv8&_e9g!@4)e$zbv=qgi60(ux_bmn39odp'
 DEBUG = True
 
 ALLOWED_HOSTS = ['a80e19a7597d46bdaae7e3d6546419f3.vfs.cloud9.us-east-1.amazonaws.com',
-                'https://dm-simple-django-todo.herokuapp.com/']
+                'dm-simple-django-todo.herokuapp.com']
 
 
 # Application definition
